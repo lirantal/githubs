@@ -1,4 +1,8 @@
 {
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
+  },
   "name": "githubs",
   "version": "0.0.0-development",
   "description": "CLI to manage GitHub repositories in bulk",
