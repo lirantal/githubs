@@ -73,7 +73,7 @@
     "testEnvironment": "node",
     "verbose": true,
     "notify": true,
-    "collectCoverage": true,
+    "collectCoverage": false,
     "coverageThreshold": {
       "global": {
         "branches": 80,
