@@ -42,7 +42,7 @@
     "url": "https://github.com/lirantal/githubs.git"
   },
   "dependencies": {
-    "githubs-api": "^1.0.0"
+    "githubs-api": "^1.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.2.1",
